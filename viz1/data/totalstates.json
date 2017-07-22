@@ -1,0 +1,634 @@
+
+[ {
+    "code": "AP",
+    "name": "Dr. B.R. Ambedkar University",
+    "location": "Srikakulam"
+}, {
+    "code": "AP",
+    "name": "Dravidan University",
+    "location": "Chittoor"
+}, {
+    "code": "AP",
+    "name": "Gitam Institute of science",
+    "location": "Vishakapatnam"
+}, {
+    "code": "AP",
+    "name": "Gitam University",
+    "location": "Vishakapatnam"
+}, {
+    "code": "AP",
+    "name": "Koneru Lakshmaiah University",
+    "location": "Guntur"
+}, {
+    "code": "AP",
+    "name": "Sri Padmavathi Mahila visvavidyalayam",
+    "location": "Tirupathi"
+}, {
+    "code": "AP",
+    "name": "Sri Venkateswara\u00a0Institute of medical sciences",
+    "location": "Tirupathi"
+}, {
+    "code": "AP",
+    "name": "Vikrama Simhapuri\u00a0University",
+    "location": "Nellore"
+}, {
+    "code": "TG",
+    "name": "University of Hyderabad",
+    "location": "Hyderabad"
+}, {
+    "code": "TG",
+    "name": "Jawaharlal Nehru Institute of advanced studies",
+    "location": "Hyderabad"
+}, {
+    "code": "TG",
+    "name": "IIT-Hyderabad",
+    "location": "Hyderabad"
+}, {
+    "code": "CG",
+    "name": "Guru\u00a0Ghasidas\u00a0Vishwavidyalaya",
+    "location": "Bilaaspur"
+}, {
+    "code": "CG",
+    "name": "Raipur Institute of Technology",
+    "location": "Raipur"
+}, {
+    "code": "AS",
+    "name": "Assam University",
+    "location": "Silchar"
+}, {
+    "code": "AS",
+    "name": "Dibrugarh\u00a0University",
+    "location": "Dibrugarh"
+}, {
+    "code": "AS",
+    "name": "Don Bosco University",
+    "location": "Guwahati"
+}, {
+    "code": "AS",
+    "name": "Gauhati University",
+    "location": "Guwahati"
+}, {
+    "code": "DL",
+    "name": "IIT-Delhi",
+    "location": "Delhi"
+}, {
+    "code": "DL",
+    "name": "Jamia Hamdard University",
+    "location": "Delhi"
+}, {
+    "code": "DL",
+    "name": "Jamia Millia Islamia",
+    "location": "Delhi"
+}, {
+    "code": "DL",
+    "name": "Jawaharlal Nehru University",
+    "location": "Delhi"
+}, {
+    "code": "DL",
+    "name": "South Asian University",
+    "location": "Delhi"
+}, {
+    "code": "DL",
+    "name": "University of Delhi",
+    "location": "Delhi"
+}, {
+    "code": "GO",
+    "name": "Goa University",
+    "location": "North Goa"
+}, {
+    "code": "GU",
+    "name": "Kadi Sarva Vishwavidyalaya",
+    "location": "Gandhinagar"
+}, {
+    "code": "GU",
+    "name": "Mehsana Urban Institute of Bio-Sciences ",
+    "location": "Mehsana"
+}, {
+    "code": "HR",
+    "name": "Apeejay Stya University",
+    "location": "Gurgaon"
+}, {
+    "code": "HR",
+    "name": "Chaudary Devi Lal University",
+    "location": "Sirsa"
+}, {
+    "code": "HR",
+    "name": "Maharshi Markandeshwar University",
+    "location": "Ambala"
+}, {
+    "code": "HR",
+    "name": "SRM University",
+    "location": "Sonepat"
+}, {
+    "code": "HR",
+    "name": "University Institute of Engineering And Technology",
+    "location": "Kurukshetra"
+}, {
+    "code": "HP",
+    "name": "DR.Y.S.Parmar University of Horticulture and Forestry ",
+    "location": "Solan"
+}, {
+    "code": "HP",
+    "name": "Eternal University",
+    "location": "Sirmaur"
+}, {
+    "code": "HP",
+    "name": "Himachal Pradesh University",
+    "location": "Shimla"
+}, {
+    "code": "HP",
+    "name": "Jaypee University of Information Technology",
+    "location": "solan"
+}, {
+    "code": "HP",
+    "name": "Shoolini University",
+    "location": "Solan"
+}, {
+    "code": "JK",
+    "name": "Sher-e-Kashmir University of Agricultural Sciences and Technology",
+    "location": "Jammu"
+}, {
+    "code": "JK",
+    "name": "University of Kashmir",
+    "location": "Srinagar"
+}, {
+    "code": "JH",
+    "name": "Indian Institute of Agricultural Biotechnology",
+    "location": "Ranchi"
+}, {
+    "code": "KR",
+    "name": "BMS College of Engineering",
+    "location": "Banglore"
+}, {
+    "code": "KR",
+    "name": "Centre for Shridevi Research Foundation",
+    "location": "Tumkur"
+}, {
+    "code": "KR",
+    "name": "Gulbarga University",
+    "location": "Gulbarga"
+}, {
+    "code": "KR",
+    "name": "Jain University",
+    "location": "Banglore"
+}, {
+    "code": "KR",
+    "name": "Karnatak University",
+    "location": "Dharwad"
+}, {
+    "code": "KR",
+    "name": "M.S.Ramaiah Institute of Technology",
+    "location": "Banglore"
+}, {
+    "code": "KR",
+    "name": "Mangalore University",
+    "location": "Mangalore"
+}, {
+    "code": "KR",
+    "name": "Mysore University",
+    "location": "Mysore"
+}, {
+    "code": "KR",
+    "name": "N.M.A.M Institute of Technology",
+    "location": "Udipi"
+}, {
+    "code": "KR",
+    "name": "REVA University",
+    "location": "Banglore"
+}, {
+    "code": "KR",
+    "name": "Shridevi Institute of Engineering and Technology",
+    "location": "Tumkur"
+}, {
+    "code": "KR",
+    "name": "Sri Jayachamarajendra College of Engineering",
+    "location": "Mysore"
+}, {
+    "code": "KE",
+    "name": "Cochin University of Science and Technology",
+    "location": "Kochi"
+}, {
+    "code": "KE",
+    "name": "Indian Institute of Spices Research",
+    "location": "Calicut"
+}, {
+    "code": "KE",
+    "name": "Mahatma Gandhi University",
+    "location": "Kottayam"
+}, {
+    "code": "KE",
+    "name": "National Institute of Technology",
+    "location": "Calicut"
+}, {
+    "code": "MP",
+    "name": "All India Institute of Medical Sciences",
+    "location": "Bhopal"
+}, {
+    "code": "MP",
+    "name": "Amity University",
+    "location": "Gwalior"
+}, {
+    "code": "MP",
+    "name": "Barkatullah University",
+    "location": "Bhopal"
+}, {
+    "code": "MP",
+    "name": "Government Holkar Science College",
+    "location": "Indore"
+}, {
+    "code": "MP",
+    "name": "ITM University",
+    "location": "Gwalior"
+}, {
+    "code": "MP",
+    "name": "Jiwaji University",
+    "location": "Gwalior"
+}, {
+    "code": "MP",
+    "name": "Saifia College of Science",
+    "location": "Bhopal"
+}, {
+    "code": "MR",
+    "name": "Amity University",
+    "location": "Mumbai"
+}, {
+    "code": "MR",
+    "name": "Birla College of Arts,science and commerce",
+    "location": "Thane"
+}, {
+    "code": "MR",
+    "name": "DR.D.Y.Patil BioTechnology and Bioinfomatics Institute",
+    "location": "Pune"
+}, {
+    "code": "MR",
+    "name": "DR.D.Y.Patil Vidyapeeth",
+    "location": "Pune"
+}, {
+    "code": "MR",
+    "name": "Government Institute of Science",
+    "location": "Aurangabad"
+}, {
+    "code": "MR",
+    "name": "Indian Institute of Technology",
+    "location": "Mumbai"
+}, {
+    "code": "MR",
+    "name": "Institue of Chemcal Technology",
+    "location": "Mumbai"
+}, {
+    "code": "MR",
+    "name": "Mahatma Gandhi Mission Institute of Health Sciences",
+    "location": "Mumbai"
+}, {
+    "code": "MR",
+    "name": "National Research centre for Grapes",
+    "location": "Pune"
+}, {
+    "code": "MR",
+    "name": "North Maharasthra University",
+    "location": "Jalgaon"
+}, {
+    "code": "MR",
+    "name": "Ramniranjan Jhunjhunwala College",
+    "location": "Mumbai"
+}, {
+    "code": "MR",
+    "name": "RC Patel Arts,science and commerce",
+    "location": "Dhule"
+}, {
+    "code": "MR",
+    "name": "Sant Gadge Baba Amaravati University",
+    "location": "Amaravati"
+}, {
+    "code": "MR",
+    "name": "Savitribai Phule Pune University",
+    "location": "Pune"
+}, {
+    "code": "MR",
+    "name": "Sharma Sadhana Bombay Trust's Engineering and Technology",
+    "location": "Jalgaon"
+}, {
+    "code": "MR",
+    "name": "University of Mumbai",
+    "location": "Mumbai"
+}, {
+    "code": "MA",
+    "name": "Manipur University",
+    "location": "Imphal"
+}, {
+    "code": "ME",
+    "name": "College of Postgraduate Studies ",
+    "location": "Shillong"
+}, {
+    "code": "ME",
+    "name": "University of Science and Technolgy",
+    "location": "Ri-Bhoi"
+}, {
+    "code": "MZ",
+    "name": "Mizoram University",
+    "location": "Aizawl"
+}, {
+    "code": "OS",
+    "name": "College of Engineering and Technology Bhubaneswar",
+    "location": "Bhubaneswar"
+}, {
+    "code": "OS",
+    "name": "Siksha 'O' Anusandhan University",
+    "location": "Bhubaneswar"
+}, {
+    "code": "PC",
+    "name": "Pondicherry University",
+    "location": "Pondicherry"
+}, {
+    "code": "PU",
+    "name": "Punjab University",
+    "location": "Chandigarh"
+}, {
+    "code": "PU",
+    "name": "Adesh University",
+    "location": "Bathinda"
+}, {
+    "code": "PU",
+    "name": "DR.B.R.Ambedkar National Institute of Technology",
+    "location": "Jalandhar"
+}, {
+    "code": "PU",
+    "name": "Lovely Professional University",
+    "location": "Jalandhar"
+}, {
+    "code": "PU",
+    "name": "Sri Guru Granth Sahib World Unversity",
+    "location": "Fathegarh sahib"
+}, {
+    "code": "RJ",
+    "name": "Amity University",
+    "location": "Jaipur"
+}, {
+    "code": "RJ",
+    "name": "Banasthali University",
+    "location": "Tonk"
+}, {
+    "code": "RJ",
+    "name": "Central University of Rajasthan",
+    "location": "Ajmer"
+}, {
+    "code": "RJ",
+    "name": "Jaipur Institute of Biotechnology",
+    "location": "Jaipur"
+}, {
+    "code": "RJ",
+    "name": "Jaipur National University",
+    "location": "Jaipur"
+}, {
+    "code": "RJ",
+    "name": "Jayoti Vidyapeeth Women's University",
+    "location": "Jaipur"
+}, {
+    "code": "RJ",
+    "name": "Lachoo Memorial College Science and Technology",
+    "location": "Jodhpur"
+}, {
+    "code": "RJ",
+    "name": "M.N.Institute of Management Studies",
+    "location": "Bikaner"
+}, {
+    "code": "RJ",
+    "name": "Maharaj Vinayak Global University",
+    "location": "Jaipur"
+}, {
+    "code": "RJ",
+    "name": "Maharaja Ganga Singh University",
+    "location": "Bikaner"
+}, {
+    "code": "RJ",
+    "name": "M.N.Institute of Applied Sciences",
+    "location": "Bikaner"
+}, {
+    "code": "RJ",
+    "name": "NIMS University",
+    "location": "Jaipur"
+}, {
+    "code": "RJ",
+    "name": "Sir Padampat Singhania University",
+    "location": "Udaipur"
+}, {
+    "code": "TN",
+    "name": "Alagappa University",
+    "location": "Karaikudi"
+}, {
+    "code": "TN",
+    "name": "Avinashillingam University",
+    "location": "Coimbatore"
+}, {
+    "code": "TN",
+    "name": "Bannari Amman Institute of Technology",
+    "location": "Erode"
+}, {
+    "code": "TN",
+    "name": "DR.G.R.Damodaran College of Science",
+    "location": "Coimbatore"
+}, {
+    "code": "TN",
+    "name": "DR.NGP Arts and Science College",
+    "location": "Coimbatore"
+}, {
+    "code": "TN",
+    "name": "Ganga Medical Centre and Hospital",
+    "location": "Coimbatore"
+}, {
+    "code": "TN",
+    "name": "Hindusthan College of Arts and Science",
+    "location": "Coimbatore"
+}, {
+    "code": "TN",
+    "name": "Holy Cross College",
+    "location": "Trichy"
+}, {
+    "code": "TN",
+    "name": "J.J College of Arts and Science",
+    "location": "Trichy"
+}, {
+    "code": "TN",
+    "name": "J.J College of Arts and Science",
+    "location": "Pudukkottai"
+}, {
+    "code": "TN",
+    "name": "Kalasalingam University",
+    "location": "Krishnankovil"
+}, {
+    "code": "TN",
+    "name": "Kongunadu Arts and Science College",
+    "location": "Coimbatore"
+}, {
+    "code": "TN",
+    "name": "KS Rangaswami College of Arts and Science ",
+    "location": "Namakkal"
+}, {
+    "code": "TN",
+    "name": "Kumaraguru College of Technology",
+    "location": "Coimbatore"
+}, {
+    "code": "TN",
+    "name": "Layola College",
+    "location": "Chennai"
+}, {
+    "code": "TN",
+    "name": "Kurinji College of Arts and Science",
+    "location": "Trichy"
+}, {
+    "code": "TN",
+    "name": "Maharaja Co-Education College of Arts and Science College",
+    "location": "Erode"
+}, {
+    "code": "TN",
+    "name": "Mahendra Arts and Science College",
+    "location": "Namakkal"
+}, {
+    "code": "TN",
+    "name": "Malankara Catholic College",
+    "location": "Kanyakumari"
+}, {
+    "code": "TN",
+    "name": "Mother Terisa Women's University",
+    "location": "Kodaikanal"
+}, {
+    "code": "TN",
+    "name": "Muthayammal College of Arts and Science",
+    "location": "Namakkal"
+}, {
+    "code": "TN",
+    "name": "Nehru Arts and Science College",
+    "location": "Coimbatore"
+}, {
+    "code": "TN",
+    "name": "NGM College-Autonomous",
+    "location": "Coimbatore"
+}, {
+    "code": "TN",
+    "name": "S.N.R.Sons College-Autonomous",
+    "location": "Coimbatore"
+}, {
+    "code": "TN",
+    "name": "Salim Ali Centre for Orthinology and Natural History",
+    "location": "Coimbatore"
+}, {
+    "code": "TN",
+    "name": "Selvamm Arts and Science College",
+    "location": "Namakkal"
+}, {
+    "code": "TN",
+    "name": "Sengunthar Arts and Science College",
+    "location": "Namakkal"
+}, {
+    "code": "TN",
+    "name": "Shri Nehru Maha Vidyala College of Arts and Science ",
+    "location": "Coimbatore"
+}, {
+    "code": "TN",
+    "name": "Sir Theagaraya College",
+    "location": "Chennai"
+}, {
+    "code": "TN",
+    "name": "SRM University",
+    "location": "Kanchipuram"
+}, {
+    "code": "TN",
+    "name": "St.Joseph's College-Autonomous",
+    "location": "Trichy"
+}, {
+    "code": "TN",
+    "name": "Thanthai Hans Roever College",
+    "location": "Perambalur"
+}, {
+    "code": "TN",
+    "name": "Vivekanandha Arts and Sciences for Women",
+    "location": "Namakkal"
+}, {
+    "code": "TN",
+    "name": "Women's Christian College",
+    "location": "Chennai"
+}, {
+    "code": "UP",
+    "name": "Allahabad University",
+    "location": "Allahabad"
+}, {
+    "code": "UP",
+    "name": "Amity Institute of Biotechnology",
+    "location": "Noida"
+}, {
+    "code": "UP",
+    "name": "Amity University",
+    "location": "Lucknow"
+}, {
+    "code": "UP",
+    "name": "Banaras Hindu University",
+    "location": "Varanasi"
+}, {
+    "code": "UP",
+    "name": "GLA University ",
+    "location": "Mathura"
+}, {
+    "code": "UP",
+    "name": "I.M.S Engineering College",
+    "location": "Ghaziabad"
+}, {
+    "code": "UP",
+    "name": "IFTM University ",
+    "location": "Moradabad"
+}, {
+    "code": "UP",
+    "name": "Jaypee Institute of Information Technology University",
+    "location": "Noida"
+}, {
+    "code": "UP",
+    "name": "Mothilal Nehru National Institute of Technology",
+    "location": "Allahabad"
+}, {
+    "code": "UP",
+    "name": "Narendra Dev University of Agriculture and Technology",
+    "location": "Faizabad"
+}, {
+    "code": "UP",
+    "name": "Rama University",
+    "location": "Kanpur"
+}, {
+    "code": "UP",
+    "name": "Sardar Vllabh Bhai Patel University of Agriculture and Technology",
+    "location": "Meerut"
+}, {
+    "code": "UP",
+    "name": "Sharda University",
+    "location": "Noida"
+}, {
+    "code": "UP",
+    "name": "Shobhit University",
+    "location": "Meerut"
+}, {
+    "code": "UK",
+    "name": "Graphic Era University",
+    "location": "Dehradun"
+}, {
+    "code": "WB",
+    "name": "Bidhan Chandra Krishi Viswa Vidyalaya ",
+    "location": "Haringhata"
+}, {
+    "code": "WB",
+    "name": "Institute of Genetic Engineering",
+    "location": "Kolkata"
+}, {
+    "code": "WB",
+    "name": "National Institute of Management and Technology",
+    "location": "Kolkata"
+}, {
+    "code": "WB",
+    "name": "Techno India University",
+    "location": "Kolkata"
+}, {
+    "code": "WB",
+    "name": "Vidyasagar University",
+    "location": "Midnapur"
+}, {
+    "code": "WB",
+    "name": "Visva Bharati University",
+    "location": "Birbhum"
+}]

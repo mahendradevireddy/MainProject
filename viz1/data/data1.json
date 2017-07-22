@@ -1,0 +1,11 @@
+[
+     {"value": 200, "name": "andhra pradesh"},
+    {"value": 100, "name": "tamilnadu"},
+    {"value": 70, "name": "kerala"},
+    {"value": 40, "name": "maharastra"},
+    {"value": 15, "name": "delhi"},
+    {"value": 50, "name": "ernakulam"},
+    {"value": 120, "name": "cochin"},
+     {"value": 10, "name": "mahabubnagar"},
+    { "name": "hyderabad","value": 10}
+  ]

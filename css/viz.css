@@ -1,0 +1,18 @@
+#viz path {
+  stroke-width: 1px;
+  stroke: white;
+
+  fill:rgb(120,198,121);
+  cursor: pointer;
+}
+
+#viz .features .active{
+  stroke-width: 1px;
+  stroke: white;
+  fill:yellow;
+  cursor: pointer;
+}
+
+#viz path:hover, #viz path.highlighted {
+  fill: tomato;
+}
